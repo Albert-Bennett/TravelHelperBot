@@ -10,3 +10,15 @@ C:\Users\AlbertBennett\Desktop\TravelHelper\TravelHelper\obj\Debug\netcoreapp2.1
 C:\Users\AlbertBennett\Desktop\TravelHelper\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.AssemblyInfo.cs
 C:\Users\AlbertBennett\Desktop\TravelHelper\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.dll
 C:\Users\AlbertBennett\Desktop\TravelHelper\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.pdb
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\bin\Debug\netcoreapp2.1\TravelHelper.bot
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\bin\Debug\netcoreapp2.1\TravelHelper.deps.json
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\bin\Debug\netcoreapp2.1\TravelHelper.runtimeconfig.json
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\bin\Debug\netcoreapp2.1\TravelHelper.runtimeconfig.dev.json
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\bin\Debug\netcoreapp2.1\TravelHelper.dll
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\bin\Debug\netcoreapp2.1\TravelHelper.pdb
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.csprojAssemblyReference.cache
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.csproj.CoreCompileInputs.cache
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.AssemblyInfoInputs.cache
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.AssemblyInfo.cs
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.dll
+C:\Users\AlbertBennett\Desktop\TravelHelperBot\TravelHelper\obj\Debug\netcoreapp2.1\TravelHelper.pdb

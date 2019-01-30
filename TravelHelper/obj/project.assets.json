@@ -13245,11 +13245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlbertBennett\\Desktop\\TravelHelper\\TravelHelper\\TravelHelper.csproj",
+      "projectUniqueName": "C:\\Users\\AlbertBennett\\Desktop\\TravelHelperBot\\TravelHelper\\TravelHelper.csproj",
       "projectName": "TravelHelper",
-      "projectPath": "C:\\Users\\AlbertBennett\\Desktop\\TravelHelper\\TravelHelper\\TravelHelper.csproj",
+      "projectPath": "C:\\Users\\AlbertBennett\\Desktop\\TravelHelperBot\\TravelHelper\\TravelHelper.csproj",
       "packagesPath": "C:\\Users\\AlbertBennett\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlbertBennett\\Desktop\\TravelHelper\\TravelHelper\\obj\\",
+      "outputPath": "C:\\Users\\AlbertBennett\\Desktop\\TravelHelperBot\\TravelHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
